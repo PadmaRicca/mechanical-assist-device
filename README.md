@@ -1,5 +1,5 @@
 # Mechanical Assist Device
-**Project Level**: Foundational Undergraduate  
+**Project Level:** Foundational Undergraduate  
 
 **Institution:** Middlesex University London  
 **Degree:** BEng (Hons) Biomedical Engineering  
