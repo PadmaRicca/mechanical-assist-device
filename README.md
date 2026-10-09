@@ -11,19 +11,16 @@
 
 ## Project Overview
 
-Designed and constructed a manually operated mechanical gripping device capable of extending the user's reach to pick up and transfer straws.
+Designed and constructed a manually operated mechanical gripping device to extend the user's reach and enable the collection and transfer of straws.
 
-The challenge required developing a device that could operate through hand movements without electronics or motors, with the objective of transferring as many straws as possible within 60 seconds.
-
-The project involved exploring gripping mechanisms, selecting materials, fabricating components and developing successive prototypes. Testing identified limitations in grip friction, structural rigidity and ease of operation, informing further design modifications.
+The design challenge was to transfer as many straws as possible within 60 seconds, using hand movements alone without electronics or motors.
 
 ## Contributions
-
-- Explored alternative gripping mechanisms and developed design concepts through sketches and mechanical analysis.
-- Selected materials and fabricated components using workshop machinery and tools.
-- Developed and refined prototypes, investigating gripping geometry, friction and mechanical movement.
-- Conducted practical testing and documented design limitations and potential improvements.
-- Maintained a structured engineering logbook recording design decisions, manufacturing processes, prototype development and critical reflections.
+- Investigated alternative gripping mechanisms through technical sketches and mechanical analysis.
+- Selected materials and fabricated components using workshop equipment, including pillar drills, band saws, a jigsaw, sanding machines and laser-cutting equipment.
+- Built and refined physical prototypes, focusing on gripping geometry and mechanical movement.
+- Evaluated prototype performance, identifying limitations in grip friction, structural rigidity and ease of operation to inform design improvements.
+- Maintained an engineering logbook documenting design decisions, dimensional measurements, manufacturing processes and testing observations.
 
 ## Skills Demonstrated
 
