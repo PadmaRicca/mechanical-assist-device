@@ -23,12 +23,11 @@ The design challenge was to transfer as many straws as possible within 60 second
 - Maintained an engineering logbook documenting design decisions, dimensional measurements, manufacturing processes and testing observations.
 
 ## Skills Demonstrated
-
-- **Mechanical Design:** Gripping mechanisms, manually actuated movement, material selection and component integration.
-- **Workshop Fabrication:** Practical use of pillar drills, band saws, sanding machines, a jig saw and laser-cutting equipment.
-- **Prototyping and Testing:** Iterative physical prototyping, evaluation of mechanical performance and refinement of design features.
-- **Engineering Documentation:** Technical sketching, dimensional measurements, photographic records, design rationale and reflective engineering logbook development.
-- **Problem-Solving:** Identifying mechanical limitations, evaluating alternative solutions and implementing design modifications.
+- **Mechanical Design:** Understanding of manually actuated mechanisms, component integration and fundamental mechanical design principles.
+- **Workshop Fabrication:** Practical experience in material handling, precision measurement and safe operation of workshop machinery.
+- **Prototyping:** Translating initial design concepts into functional physical models.
+- **Engineering Documentation:** Organising technical information, recording design rationale and communicating engineering decisions.
+- **Problem-Solving:** Applying analytical thinking, critical evaluation and iterative decision-making to practical engineering challenges.
 
 ## Report Availability
 
