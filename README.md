@@ -1,6 +1,7 @@
 # Mechanical Assist Device
 **Project Level:** Foundational Undergraduate  
 
+**Author:** Padma Michela Ricca  
 **Institution:** Middlesex University London  
 **Degree:** BEng (Hons) Biomedical Engineering  
 **Module:** PDE1234 (Design Practice for Biomedical Engineers)  
